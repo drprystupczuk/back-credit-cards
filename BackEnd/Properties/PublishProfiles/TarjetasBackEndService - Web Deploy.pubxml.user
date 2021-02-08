@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <EncryptedPassword>AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAACftmfcEEFEqDUOax7O7aIgAAAAACAAAAAAAQZgAAAAEAACAAAACezicWxLZPf5hz2pRRdHR1uKhoWNTVPmSOjHZc4zmODQAAAAAOgAAAAAIAACAAAACNfX9cRmv/o4nApdLId0zL0JFb5cubA08AY/6NhIHtp4AAAACLy5xJPK5fryzeRm1VmSGbMZ/iL45k1vEw2JIEmFi/eR2FEzPUV3DGsWyPGNe6OcCSfb/Udwx3Re3+FMBCWD/gjOiNEoQgEYQgcJGyKyPuuW0i9oWTkjlKn27vx6ALzG/vTEne/lljSz823d3IN0dIlGOy3ZvPuiRwc+gAMiRzwkAAAACsif3sS0EcRvT02h0Ib8RUH9aK3miucReEzWZX5lvgnrXccYPb0Kl17g2ujf1s5RT6nYVZ5Zn56juPqBAcCpWs</EncryptedPassword>
+  </PropertyGroup>
+  <ItemGroup>
+    <DestinationConnectionStrings Include="DevConnection">
+      <Value>Data Source=tcp:tarjetasbackendserver.database.windows.net,1433%3bInitial Catalog=Tarjetas_db%3bUser Id=drprystupczuk%40tarjetasbackendserver%3bPassword=xyz789!!sv</Value>
+    </DestinationConnectionStrings>
+  </ItemGroup>
+  <ItemGroup>
+    <EFMigrations Include="BackEnd.AplicationDbContext">
+      <Value>Data Source=tcp:tarjetasbackendserver.database.windows.net,1433%3bInitial Catalog=Tarjetas_db%3bUser Id=drprystupczuk%40tarjetasbackendserver%3bPassword=xyz789!!sv</Value>
+    </EFMigrations>
+  </ItemGroup>
+</Project>
