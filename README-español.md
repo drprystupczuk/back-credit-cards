@@ -1,12 +1,10 @@
-# [EN] English:
-### CRUD Credit Cards :credit_card:
-:green_circle: [Deployed in azure](https://tarjetasbackendservice.azurewebsites.net)
+# [ES] Español:
+### ABM Tarjetas de Credito :credit_card:
+:green_circle: [Desplegado en azure](https://tarjetasbackendservice.azurewebsites.net)
 
-### Description: 
-_Udemy course done for funny and learning reasons_
+### Descripción: 
+_[Curso gratuito de Udemy](https://www.udemy.com/course/crud-angular-9-net-core-entity-framework-coresqlserver/) realizado por diversión y aprendizaje._
 
 
-### About me ✒️
-Diego Prystupczuk - Fullstack developer - [drprystupczuk](https://github.com/drprystupczuk)
-
-[Ver en español](README-español.md)
+### Acerca de mí ✒️
+Diego Prystupczuk - Desarrollador Fullstack - [drprystupczuk](https://github.com/drprystupczuk)
