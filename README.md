@@ -3,7 +3,7 @@
 :green_circle: [Deployed in azure](https://tarjetasbackendservice.azurewebsites.net)
 
 ### Description: 
-_Udemy course done for funny and learning reasons_
+_[Udemy course](https://www.udemy.com/course/crud-angular-9-net-core-entity-framework-coresqlserver/) done for funny and learning reasons_
 
 
 ### About me ✒️
