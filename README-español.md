@@ -2,7 +2,7 @@
 [Curso gratuito de Udemy](https://www.udemy.com/course/crud-angular-9-net-core-entity-framework-coresqlserver/) realizado por diversión y aprendizaje.
 
 
-### Descripción: :rocket:
+### Descripción :rocket:
 _Manejo de tarjetas de crédito [desplegado en azure](https://tarjetasbackendservice.azurewebsites.net) y el [frontend](https://github.com/drprystupczuk/front-credit-cards) está desplegado [aquí](https://tarjetas-drprystupczuk.netlify.app/)_
 
 
