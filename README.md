@@ -1,5 +1,5 @@
 # [EN] CRUD Credit Cards :credit_card:
-[Udemy course](https://www.udemy.com/course/crud-angular-9-net-core-entity-framework-coresqlserver/) done for funny and learning reasons
+Completed [udemy course](https://www.udemy.com/course/crud-angular-9-net-core-entity-framework-coresqlserver/) for funny and learning reasons
 
 
 ### Description: :rocket:
