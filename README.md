@@ -2,7 +2,7 @@
 Completed [udemy course](https://www.udemy.com/course/crud-angular-9-net-core-entity-framework-coresqlserver/) for funny and learning reasons
 
 
-### Description: :rocket:
+### Description :rocket:
 _Credit cards management [deployed service in azure](https://tarjetasbackendservice.azurewebsites.net) and [frontend](https://github.com/drprystupczuk/front-credit-cards) is deployed [here](https://tarjetas-drprystupczuk.netlify.app/)_
 
 
