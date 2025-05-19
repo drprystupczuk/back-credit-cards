@@ -1,37 +1,36 @@
 {
   "format": 1,
   "restore": {
-    "C:\\WC\\Udemy.CreditCards\\BackEnd\\BackEnd\\BackEnd.csproj": {}
+    "D:\\Git\\Cards Manager\\back-credit-cards\\BackEnd\\BackEnd.csproj": {}
   },
   "projects": {
-    "C:\\WC\\Udemy.CreditCards\\BackEnd\\BackEnd\\BackEnd.csproj": {
+    "D:\\Git\\Cards Manager\\back-credit-cards\\BackEnd\\BackEnd.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\WC\\Udemy.CreditCards\\BackEnd\\BackEnd\\BackEnd.csproj",
+        "projectUniqueName": "D:\\Git\\Cards Manager\\back-credit-cards\\BackEnd\\BackEnd.csproj",
         "projectName": "BackEnd",
-        "projectPath": "C:\\WC\\Udemy.CreditCards\\BackEnd\\BackEnd\\BackEnd.csproj",
-        "packagesPath": "C:\\Users\\diegoprystu\\.nuget\\packages\\",
-        "outputPath": "C:\\WC\\Udemy.CreditCards\\BackEnd\\BackEnd\\obj\\",
+        "projectPath": "D:\\Git\\Cards Manager\\back-credit-cards\\BackEnd\\BackEnd.csproj",
+        "packagesPath": "C:\\Users\\diego\\.nuget\\packages\\",
+        "outputPath": "D:\\Git\\Cards Manager\\back-credit-cards\\BackEnd\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+          "D:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\diegoprystu\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 18.1.config",
+          "C:\\Users\\diego\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\DevExpress 18.1\\Components\\System\\Components\\Packages": {},
-          "C:\\WC\\SS.NuGetPackages": {},
-          "http://core.seaburymro.com/NuGet/info": {},
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
             "projectReferences": {}
           }
         },
@@ -39,10 +38,17 @@
           "warnAsError": [
             "NU1605"
           ]
-        }
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.200"
       },
       "frameworks": {
         "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
           "dependencies": {
             "Microsoft.EntityFrameworkCore": {
               "target": "Package",
@@ -73,7 +79,8 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -85,7 +92,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.405\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.200\\RuntimeIdentifierGraph.json"
         }
       }
     }

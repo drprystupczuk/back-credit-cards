@@ -1,0 +1,76 @@
+## Compilación de Visual Studio ##
+bin/
+obj/
+
+## Archivos de usuario de Visual Studio ##
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+## Archivos de Rider ##
+.idea/
+*.sln.iml
+
+## Configuración de VSCode ##
+.vscode/
+
+## Archivos generados por el sistema operativo ##
+.DS_Store
+Thumbs.db
+
+## Archivos de logs y temporales ##
+*.log
+*.tlog/
+*.tmp
+*.bak
+
+## Paquetes NuGet ##
+*.nupkg
+*.snupkg
+packages/
+# Si usás `dotnet restore`, podés ignorar esta carpeta
+.nuget/
+
+## Configuración local de entorno ##
+appsettings.Development.json
+secrets.json
+
+## Publicaciones ##
+publish/
+out/
+dist/
+
+## Archivos generados por dotnet user-secrets ##
+**/.microsoft/usersecrets/
+**/secrets.json
+
+## Coverage (si usás cobertura de código) ##
+coverage/
+TestResults/
+*.coverage
+*.coveragexml
+
+## Docker ##
+*.pid
+docker-compose.override.yml
+.docker/
+
+## Archivos de bloqueo (opcional) ##
+project.lock.json
+project.assets.json
+
+## Archivos de configuración global opcionales ##
+global.json
+
+## Otros ##
+*.db
+*.sqlite
+*.sdf
+*.mdf
+*.ldf
+
+# Archivos de configuración de herramientas de terceros (si usás) #
+.ncrunch*
+.ReSharper*
+*.DotSettings.user
