@@ -1,31 +1,13 @@
 {
   "profiles": {
-    "IIS Express": {
-      "commandName": "IISExpress",
-      "launchBrowser": true,
-      "launchUrl": "weatherforecast",
-      "environmentVariables": {
-        "ASPNETCORE_ENVIRONMENT": "Development"
-      }
-    },
     "BackEnd": {
       "commandName": "Project",
       "launchBrowser": true,
-      "launchUrl": "api/tarjetaCredito/swagger",
+      "launchUrl": "api/tarjetaCredito",
       "environmentVariables": {
         "ASPNETCORE_ENVIRONMENT": "Development"
       },
       "applicationUrl": "https://localhost:5001;http://localhost:5000"
-    },
-    "WSL": {
-      "commandName": "WSL2",
-      "launchBrowser": true,
-      "launchUrl": "https://localhost:5001/api/tarjetaCredito/swagger",
-      "environmentVariables": {
-        "ASPNETCORE_ENVIRONMENT": "Development",
-        "ASPNETCORE_URLS": "https://localhost:5001;http://localhost:5000"
-      },
-      "distributionName": ""
     }
   },
   "$schema": "http://json.schemastore.org/launchsettings.json",
