@@ -11,5 +11,9 @@
     <WebStackScaffolding_DbContextTypeFullName>BackEnd.AplicationDbContext</WebStackScaffolding_DbContextTypeFullName>
     <WebStackScaffolding_IsAsyncSelected>False</WebStackScaffolding_IsAsyncSelected>
     <NameOfLastUsedPublishProfile>TarjetasBackEndService - Web Deploy</NameOfLastUsedPublishProfile>
+    <ActiveDebugProfile>BackEnd</ActiveDebugProfile>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|AnyCPU'">
+    <DebuggerFlavor>ProjectDebugger</DebuggerFlavor>
   </PropertyGroup>
 </Project>
