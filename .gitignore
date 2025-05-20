@@ -74,3 +74,4 @@ global.json
 .ncrunch*
 .ReSharper*
 *.DotSettings.user
+/.vs
